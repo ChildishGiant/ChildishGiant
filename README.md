@@ -1,16 +1,15 @@
-### Hi there 👋
+## Allie (She/her)
 
-<!--
-**ChildishGiant/ChildishGiant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![ChildishGiants's GitHub stats](https://github-readme-stats.vercel.app/api?username=childishgiant&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=childishgiant&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Projects I work on
+<a href="https://github.com/cloverleaf/web">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=cloverleaf&repo=web&show_owner=true&theme=dracula&hide_border=true" />
+</a>
+<a href="https://github.com/materializecss/materialize">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=materializecss&repo=materialize&show_owner=true&theme=dracula&hide_border=true" />
+</a>
