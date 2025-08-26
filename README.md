@@ -2,8 +2,7 @@
 
 I'm Allie, mainly known online as "ChildishGiant"
 
-- 💬 Pronouns: She/Her
-- 🐘 Mastodon: [childishgiant@cathode.church](https://cathode.church/@childishgiant)
+- 💬 Pronouns: She/They
 - 🗺️ OpenStreetMap: [ChildishGiant](https://www.openstreetmap.org/user/ChildishGiant)
 
 ![Allie's GitHub stats](https://github-readme-stats.vercel.app/api?username=childishgiant&show_icons=true&theme=radical)
